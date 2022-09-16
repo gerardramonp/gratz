@@ -61,11 +61,11 @@ header {
 
 button {
     padding: 0.5rem 1.5rem;
-    background: transparent;
-    color: #002B5B;
+    background: #002B5B;
+    color: white;
     border-radius: 1rem;
     outline: none;
-    border: 3px solid #002B5B;
+    border: none;
     font-size: 1.5rem;
     font-weight: bold;
     margin-bottom: 2rem;
